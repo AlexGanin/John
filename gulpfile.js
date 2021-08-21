@@ -1,3 +1,4 @@
+//npm install sass gulp-sass --save-dev
 //let replace = require('gulp-replace'); //.pipe(replace('bar', 'foo'))
 let { src, dest } = require("gulp");
 let fs = require('fs');
